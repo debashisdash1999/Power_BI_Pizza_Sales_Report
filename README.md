@@ -69,12 +69,7 @@ The project uses three raw Excel files:
 
 ## Tools Used
 - **Power BI Desktop** for dashboard creation and data modeling  
-- **Excel** for raw data preprocessing
-
----
-
-## Author
-**Debashis**  
+- **Excel** for raw data   
 
 ---
 
